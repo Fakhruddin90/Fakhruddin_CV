@@ -1,0 +1,25 @@
+body, h1, p, hr {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: white;
+}
+
+.resumeCanvas {
+    margin: 0 auto;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0.3in;
+    width: 210mm;
+    height: 297mm;
+    background-color: #faffff;
+    -webkit-box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.7);
+}
+
+
+i {
+    color: #008CFF;
+}
